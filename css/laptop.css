@@ -37,7 +37,7 @@ a:hover {
       rgba(34, 34, 34, 0.6),
       rgba(34, 34, 34, 0.6)
     ),
-    url(./images/banner.jpg);
+    url(/images/banner.jpg);
   background-size: cover;
   background-position: 50%;
   height: 680px;
